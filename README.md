@@ -1,0 +1,1 @@
+source .venv/bin/activate code to activate the virtual environment
